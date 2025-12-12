@@ -57,8 +57,13 @@ I'm committed to contributing to the Free and Open Source Software movement by:
 ## Favourite IDEs:
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=85px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width=85px/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width=85px/>      
 </a>
+
+## ⚠️ Best projects I am working on now⚠️:
+- **JecnaAPI** - Great API for accessing school data of my school which has no app.
+- **PersonalCloud** - Open source Cloud storage solution with server monitoring.
+
+Thanks for stopping by.🚌
             
           
