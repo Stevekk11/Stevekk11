@@ -1,7 +1,7 @@
 ## Hi there 👋💕⭐
 
 I'm passionate about creating useful projects that benefit the **FOSS (Free and Open Source Software) community**. I believe in building tools and applications that make a real difference and are accessible to everyone.
-
+          
 ---
 
 ## 💻 Technical Skills
@@ -15,7 +15,7 @@ I'm passionate about creating useful projects that benefit the **FOSS (Free and 
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align: top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="./kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width=80px style="vertical-align: top; margin:6px 4px"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm passionate about creating useful projects that benefit the **FOSS (Free and 
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="./sql.svg" alt="SQL" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL" style="vertical-align:top; margin:6px 4px" width=70px>
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
@@ -35,10 +35,10 @@ I'm passionate about creating useful projects that benefit the **FOSS (Free and 
 ### 🌱 Currently Learning
 <p align="left">
   <a href="#">
-    <img src="./c.svg" alt="C" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="vertical-align:top; margin:6px 4px" width=90px>
   </a>
   <a href="#">
-    <img src="./cplusplus.svg" alt="C++" style="vertical-align: top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="C++" style="vertical-align: top; margin:6px 4px" width=90px>
   </a>
 </p>
 
@@ -54,6 +54,11 @@ I'm committed to contributing to the Free and Open Source Software movement by:
 
 ---
 
-## 📫 Get in Touch
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on FOSS projects! 
+## Favourite IDEs:
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width=85px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width=85px/>
+          
+</a>
+            
+          
